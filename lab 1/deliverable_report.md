@@ -1,6 +1,6 @@
 # Entregable - Laboratory 1 (SwArch2025ii)
 
-**Nombre completo:** [ESCRIBA SU NOMBRE AQUÍ]
+**Nombre completo:** Danny Marcelo Yaluzan Acosta
 
 ## 1) Representación gráfica (diagrama simple)
 Arquitectura monolítica con dos componentes principales:
