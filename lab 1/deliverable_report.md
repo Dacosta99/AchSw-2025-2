@@ -30,5 +30,3 @@ Diagrama (ASCII):
 
 5. **Simplicidad / Comprensibilidad**: La arquitectura monolítica y la elección de Flask y SQLAlchemy hacen que el código sea compacto y fácil de entender para un primer acercamiento a conceptos arquitectónicos.
 
----
-**Notas**: El proyecto incluye el código fuente, Dockerfile y docker-compose.yml tal como se solicita en el documento del laboratorio. Asegúrese de reemplazar el campo "Nombre completo" por su nombre antes de entregar.
